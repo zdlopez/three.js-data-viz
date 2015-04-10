@@ -1,0 +1,19 @@
+{
+  "name": "three.js-data-viz",
+  "version": "1.0.0",
+  "description": "A little practice project to display some data in charts using three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zdlopez/three.js-data-viz.git"
+  },
+  "author": "Zachary Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zdlopez/three.js-data-viz/issues"
+  },
+  "homepage": "https://github.com/zdlopez/three.js-data-viz"
+}
