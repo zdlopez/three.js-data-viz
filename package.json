@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zdlopez/three.js-data-viz/issues"
   },
-  "homepage": "https://github.com/zdlopez/three.js-data-viz"
+  "homepage": "https://github.com/zdlopez/three.js-data-viz",
+  "devDependencies": {
+    "bower": "^1.4.1"
+  }
 }
